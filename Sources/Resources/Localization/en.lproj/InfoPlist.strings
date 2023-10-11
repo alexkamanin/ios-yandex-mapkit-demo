@@ -1,0 +1,2 @@
+CFBundleDisplayName = "MapKitDemo";
+NSLocationWhenInUseUsageDescription = "This demo displays user location arrow";
